@@ -1,4 +1,4 @@
-Welcome to tech190 Wiki
+Welcome to the tech190 Wiki
 
 # tex-journal-9/8/2022 Garrett Smith
 
