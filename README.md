@@ -82,3 +82,5 @@ in the vector of unity.
 Some issues I found were: 
 
 some of the scenes are hard to create. Coding brings a lot of detail and life to the game so learning coding will really help my game come to life. 
+
+Jounral Entry 4
