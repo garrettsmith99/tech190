@@ -83,4 +83,17 @@ Some issues I found were:
 
 some of the scenes are hard to create. Coding brings a lot of detail and life to the game so learning coding will really help my game come to life. 
 
-Jounral Entry 4
+Jounral Entry 4 9/16/2022
+
+I have learned from Unity: 
+
+I have leaarned how to add sprites and animation into my game. I discovered what tile maps are and have starting in corprating them into my game as well. 
+
+Some issues I found were:
+
+Coding is the most important part of game design and siumlation so im going to put my main focus on solving equations and figuring out formulas. 
+
+I have learned fron watching recent game development and siumulation: how to input a custom sounds into my game to create a more unique gaming experince: 
+
+I need to download it from package manager download 2D animation allow you to PSB files. I need to draw my own character to use for my game. 
+
