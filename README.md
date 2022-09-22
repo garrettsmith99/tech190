@@ -97,3 +97,34 @@ I have learned fron watching recent game development and siumulation: how to inp
 
 I need to download it from package manager download 2D animation allow you to PSB files. I need to draw my own character to use for my game. 
 
+Journal Entry 4 9/22/2022
+
+I have learned from Unity: 
+
+I learned about the scene view where the characters are on a stage the order of cameraa and directional light do make a difference in 2D games. Prject folder as 
+
+a warehouse. Weapons scene props, characerts go into it. Game objects, tranforms and components. Creating a game object collection of a transform and component. 
+
+You can toggle the toolbar with wasd keyboard keys. How to create materials for my game. Adding dirt to a cube to turn it into a ground object that looks like a block 
+
+of dirt with grass on top. Drag the dirt onto the cube. Then you duplicate the game object and the material and change the color to green. Then you add position to Y 
+
+element and Scale X and Z. Then change the Y to 0.1 and that should create a grass block. Then you take the grass game object in the hierachy and move into the floor 
+
+tile and it becomes a child of the floor tile game object. Then you create a prefab folder and drag your dirt block with grass on it into the new folder. Once you 
+
+turn it into a prefaab you can easily place it in your scene now. Create a new empty object named level then drag all the tiles in the level game object. The 
+
+few box colliders you have the faster your game will run. 
+
+Some issues I found were: 
+
+when creating two game objects to be one object I cant move them togther. Creating animations for characters is really difficult and requires blender. 
+
+I have learned fron watching recent game development and siumulation:
+
+How to create a player. Create a 3D object in the hierarchy and choose capsule. You can eventually use blender to create walk animation then you can upgrade it with a
+
+sliding player then walking player. 
+
+
