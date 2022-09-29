@@ -97,7 +97,7 @@ I have learned fron watching recent game development and siumulation: how to inp
 
 I need to download it from package manager download 2D animation allow you to PSB files. I need to draw my own character to use for my game. 
 
-Journal Entry 4 9/22/2022
+Journal Entry 5 9/22/2022
 
 I have learned from Unity: 
 
