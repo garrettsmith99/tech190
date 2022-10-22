@@ -1,12 +1,14 @@
 Welcome to the tech190 Wiki
 
-# tex-journal-9/8/2022 Garrett Smith
+# tex-journal-9/1/2022 Garrett Smith
 
-Journal Entry 1 
+                                                                  Journal Entry 1 9/1/2022
 
-I have learned fron watching recent game development and siumulation.
+I have learned fron watching recent game development and siumulation:
 
-I have to open new scene and game objects. Right click create C# script to make it move left and right. Rename it player movement. In the code use body.velocity to change
+How to open new scenes and game objects. I have to right click to create a new empty 2d object, to create a C# script to make it move left and right. Rename it player
+
+movement. In the code use body.velocity to change it to move
 
 how fast the player is moving and in which direction in order to sign the velocity we need to use vectorwhich is ca collection of numbers. to assign the speed in a number of directions.
 
@@ -28,14 +30,27 @@ scene and create a tile map. It creates an object called grid set the cell size 
 
 bring them in. Right click snd create a new folder. To chaneg the size of the tiles right click all the tiles and change the pixels per unit. Set it 128 
 
+                                                                   Jounral Entry 2 9/8/2022
+
+I have learned fron watching recent game development and siumulation:
+
+That I need to buy a new laptop because mine isnt good enough to run Unity. How to build tile maps for my game, how I would design a background for my 2D character to 
+
+go on top of and move around off
+
 Some issues I found were:
+
+Building the tile maps is very difficult, I cant seem to figure out how to spread out my tile sheet to build the background. 
 
 Some of the really good assets you have to pay for. 
 
-Trying to find the best best game packs for your game by scrolling through each of the tile packs to see which one best fits my game.
+I have learned from Unity: 
 
+Trying to find the best best game packs for your game by scrolling through each of the tile packs to see which one best fits my game. I found the perfect asset I want 
 
-Jounral Entry 2 9/13/2022
+for my game
+
+                                                                         Jounral Entry 3 9/15/2022
 
 I have learned fron watching recent game development and siumulation:
 
@@ -55,9 +70,7 @@ Some issues I found were:
 
 A lack in the variety of free game designs I can use without having to pay for them, but at the same time I can coding to make my own custom game. 
 
-Jounral Entry 3 
-
-9/14/2022
+                                                                     Jounral Entry 4 9/22/2022
 
 I have learned fron watching recent game development and siumulation: how to input a custom sounds into my game to create a more unique gaming experince. 
 
@@ -83,7 +96,7 @@ Some issues I found were:
 
 some of the scenes are hard to create. Coding brings a lot of detail and life to the game so learning coding will really help my game come to life. 
 
-Jounral Entry 4 9/16/2022
+                                                                      Jounral Entry 5 9/26/2022
 
 I have learned from Unity: 
 
@@ -97,7 +110,7 @@ I have learned fron watching recent game development and siumulation: how to inp
 
 I need to download it from package manager download 2D animation allow you to PSB files. I need to draw my own character to use for my game. 
 
-Journal Entry 5 9/22/2022
+                                                               Journal Entry 6 10/06/2022
 
 I have learned from Unity: 
 
@@ -126,5 +139,26 @@ I have learned fron watching recent game development and siumulation:
 How to create a player. Create a 3D object in the hierarchy and choose capsule. You can eventually use blender to create walk animation then you can upgrade it with a
 
 sliding player then walking player. 
+
+                                                                   Jounral Entry 7 10/13/2022 
+                                                                   
+I have learned from watching recent gaming development that I need to use c# coding to make my character move around and I have to create the animations too to give 
+
+my character a life like appearence that can that Idle, jump, front flip, back flip, die, walk, climb, shoot. In order to actaully make a game I first have to learn 
+
+this to advance
+
+I have learned from Unity: I know what my game is going to be about, its going to be a platform game where my character Roxanne runs around with a laser gun and 
+
+shoots robots and skeletons. She cant fall off of the builds or get attack by the robots and she has to survive until she runs out of hearts. 
+
+Some issues I found were: 
+
+its a lot harder to program than I thought, I have to teach myself how to code lines of game. My teacher sre as hell not ging teach me. 
+
+
+
+Jounral Entry 8
+10/20/2022
 
 
