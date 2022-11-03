@@ -161,4 +161,30 @@ its a lot harder to program than I thought, I have to teach myself how to code l
 Jounral Entry 8
 10/20/2022
 
+ Jounral Entry 7 10/13/2022 
+                                                                   
+I have learned from watching recent gaming development: 
+
+There are fields properties and methods c# programming. Player what his health is at the moment how fas t hes running how high he jumps. 
+
+Properties get the data inside these fields
+
+Fields
+private float health;
+Properties
+private float Health{
+get{return health;}
+}
+Methods
+private void takeDmg()
+{
+
+}
+
+I have learned from Unity: 
+
+Some issues I found were: 
+
+
+
 
