@@ -1,6 +1,14 @@
-Welcome to the tech190 Wiki
+This is my journal for the game I am designing in College for my Game Design and Simulation class
 
-# tex-journal-9/1/2022 Garrett Smith
+
+My game is called City Escaper and it is a platform game where my character Roxanne runs around and shoots robots with her laser gun, does front flips across the
+
+skyscrapers and tries to save her city, New York.  
+
+# tex-journal-9/1/2022 
+
+
+Garrett Smith
 
                                                                   Journal Entry 1 9/1/2022
 
