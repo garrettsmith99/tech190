@@ -110,7 +110,7 @@ I have learned fron watching recent game development and siumulation: how to inp
 
 I need to download it from package manager download 2D animation allow you to PSB files. I need to draw my own character to use for my game. 
 
-                                                               Journal Entry 6 10/06/2022
+                                                                      Journal Entry 6 10/06/2022
 
 I have learned from Unity: 
 
@@ -140,15 +140,19 @@ How to create a player. Create a 3D object in the hierarchy and choose capsule. 
 
 sliding player then walking player. 
 
-                                                                   Jounral Entry 7 10/13/2022 
+                                                                      Jounral Entry 7 10/13/2022 
                                                                    
-I have learned from watching recent gaming development that I need to use c# coding to make my character move around and I have to create the animations too to give 
+I have learned from watching recent gaming development:
+
+I need to use c# coding to make my character move around and I have to create the animations too to give 
 
 my character a life like appearence that can that Idle, jump, front flip, back flip, die, walk, climb, shoot. In order to actaully make a game I first have to learn 
 
 this to advance
 
-I have learned from Unity: I know what my game is going to be about, its going to be a platform game where my character Roxanne runs around with a laser gun and 
+I have learned from Unity:
+
+I know what my game is going to be about, its going to be a platform game where my character Roxanne runs around with a laser gun and 
 
 shoots robots and skeletons. She cant fall off of the builds or get attack by the robots and she has to survive until she runs out of hearts. 
 
@@ -158,32 +162,89 @@ its a lot harder to program than I thought, I have to teach myself how to code l
 
 
 
-Jounral Entry 8
-10/20/2022
-
- Jounral Entry 7 10/13/2022 
+                                                                      Jounral Entry 8 10/20/2022
                                                                    
 I have learned from watching recent gaming development: 
 
-There are fields properties and methods c# programming. Player what his health is at the moment how fas t hes running how high he jumps. 
+There are fields properties and methods c# programming. The player what his health is at the moment how fas t hes running how high he jumps. 
 
-Properties get the data inside these fields
-
-Fields
-private float health;
-Properties
-private float Health{
-get{return health;}
-}
-Methods
-private void takeDmg()
-{
-
-}
+Properties get the data inside these fields. I learned about float varibles.
 
 I have learned from Unity: 
 
+I have learned how to create tile maps and how to design my sets for my game. I cant decide if I should make my player move first or if I 
+
+should create my background and then add my characters. 
+
 Some issues I found were: 
+
+Tile maps: I ran into some problems trying to create it. I dont know how to add my background and how to add the skyscrapers in the background. Ive been having trouble 
+
+making my character move around and jump. 
+
+                                                                     Journal Entry 9 10/27/2022
+
+I have learned from watching recent gaming development:
+
+I learned about using PathFinder for programming ememy AI. How my enemies travel around my game and how they
+
+attack my character Roxanne. Using if/else statements to to make them move in different directions. If postive move to the right if negative move to the left.
+
+I have learned from Unity:
+
+I learnd how to make my enemies move faster with public float speed varibles similar to programm my main character. I am starting to see a
+
+repeating pattern. Int, booleans, Rigidbody 2D, Get Compoenent, Vector 2. Creating different paths in coding. I learned how to make my enenmies follow my character and 
+
+how to make they come to stop when they miss my character. 
+
+Some issues I found were:
+
+I ran into some issues debugging my code, my code breaking and stuff not working in Unity. I lose some of my data sometimes when I forget to 
+
+save. 
+
+                                                                     Journal Entry 10 11/3/2022
+
+I have learned from watching recent gaming development: How to get my enemie to attack my player. First I need to make my background and my character to move around 
+
+and jump around my level. That I need to make an public int called MaxHealth and set it to 10 and another public int called health. In the void start function to say
+
+health = maxHealth. to make my player have full health from the start. How to create another varible TakeDamage whenever the player takes damage. If your health gets
+
+to zero you die. 
+
+I have learned from Unity: I learned from Unity that I need a seperate programming script for my enemies. With an OnCollisionEnter2D if the enemie runs into my player 
+
+my player will take damage. How much damage my player will recieve whenever they get hit. 
+
+Some issues I found were: 
+
+When my player runs into my enemie, my character does not react to it. My enemie doesnt move around.
+
+                                                                      Journal Entry 11 11/10/2022
+
+So far, I have learned from watching recent gaming development: 
+
+I have learned how to create a background for my game. How to design levels in Unity 2D with assets from 
+
+the asset store. How to make my player move around and jump and attack. How to prograamm enemie AI to move around and attack my player. How to make my player take 
+
+damage whenever they get attacked. 
+
+I have learned from Unity: 
+
+That I have to build a basic level before I can move on. So i can create my player and enemies. That I can add hearts in the top right coner of the screen to show my 
+
+health levels just like in real video games. I need to animate Roxanne shooting her laser gun and the explosions afterward that happends when you shoot the enemie. 
+
+Some issues I found were: 
+
+In Unity there are steps you have to take. First you have to make your level and the platforms, then you add your character and program it 
+
+move around. Then add enmeies and health points. When I tried to get my character to shoot her laser gun, she would face left and shoot to the right. Which was not 
+
+what I wanted to do. 
 
 
 
