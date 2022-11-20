@@ -254,6 +254,23 @@ move around. Then add enmeies and health points. When I tried to get my characte
 
 what I wanted to do. 
 
+                                                                       Journal Entry 12 11/17/2022
+I have learned from watching recent gaming development: 
 
+I need to create my level so the screen moves up when Roxanne is climbing up the ladders. I also need to add some kind of menu UI system. Where you can choose to buy
+
+items or change sprites. I still dont know what but ill figure it out once my I finish creating my basic game. 
+
+I have learned from Unity:
+
+First I need to create a basic level first. I need to create my character first and animate her to move around the screen. My level is going to be 
+
+Some issues I found were: 
+
+Some problems I ran into were I found mu 2d game to be boring. Only being able to go around and shoot targets sounds like it would get boring after a while so
+
+I am trying to come up with ways to make my game stand out. Instead of just going around shooting enemies I need a reason they do that and a new objective to get a
+
+fter the enemies get defeated but this is only after I finish the basics. 
 
 
