@@ -1,18 +1,12 @@
 Dear journal,
 
-I am excited for this gane deisgn class I signed up for. I am designing a game in College for my Game Design and Simulation class. There are a few people I met in 
+My name is Garrett Smith and I am interested in animation and game design. Creating new game worlds and making short animations. I am excited for this gane deisgn class I signed up for. I am designing a game in College for my Game Design and Simulation class. There are a few people I met in 
 
 class that I like. Some people formed groups to work on games together. I am too shy to join a group. I wish I could of joined a group but my social anxiety was 
 
 really bad. 
 
 # tex-journal-9/1/2022 
-
-Garrett Smith
-
-
-
-
 
 My game is called City Escaper and it is a platform game where my character Roxanne runs around and shoots robots with her laser gun, does front flips across the
 
