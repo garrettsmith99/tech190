@@ -312,6 +312,20 @@ my life so much.
 
 I have learned from watching recent gaming development: 
 
+I need to add hearts to my game for the fianl touch. After that I will leave it until I can work on Unity 
+
+without the university technology. I dont want to make my game to be too complex. I just need a demo of my game so later I can perfect it on my own time. 
+
 I have learned from Unity: 
 
-Some issues I found were:
+Each script makes it internal connections by implementing a class called MonoBehaviour. Script componenets can do many things such as trigger game events, check 
+
+for collisions, apply physics, respond to user input. If you add a ridgidbody to a gameobject it will start falling or a light componenet to a gameobject and it will
+
+ emit light. 
+
+Some issues I found were: 
+
+Running out of time and not being able to work outside of class. Our class missed a few classes from emeergenices so that slowed me down
+
+a little bit. 
