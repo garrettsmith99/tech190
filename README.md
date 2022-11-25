@@ -1,14 +1,22 @@
-This is my journal for the game I am designing in College for my Game Design and Simulation class
+Dear journal,
+
+I am excited for this gane deisgn class I signed up for. I am designing a game in College for my Game Design and Simulation class. There are a few people I met in 
+
+class that I like. Some people formed groups to work on games together. I am too shy to join a group. I wish I could of joined a group but my social anxiety was 
+
+really bad. 
+
+# tex-journal-9/1/2022 
+
+Garrett Smith
+
+
+
 
 
 My game is called City Escaper and it is a platform game where my character Roxanne runs around and shoots robots with her laser gun, does front flips across the
 
 skyscrapers and tries to save her city, New York.  
-
-# tex-journal-9/1/2022 
-
-
-Garrett Smith
 
                                                                   Journal Entry 1 9/1/2022
 
@@ -255,6 +263,7 @@ move around. Then add enmeies and health points. When I tried to get my characte
 what I wanted to do. 
 
                                                                        Journal Entry 12 11/17/2022
+                                                                       
 I have learned from watching recent gaming development: 
 
 I need to create my level so the screen moves up when Roxanne is climbing up the ladders. I also need to add some kind of menu UI system. Where you can choose to buy
@@ -273,4 +282,36 @@ I am trying to come up with ways to make my game stand out. Instead of just goin
 
 fter the enemies get defeated but this is only after I finish the basics. 
 
+                                                                        Journal Entry 13 11/24/2022
+                                                                        
+I have learned from watching recent gaming development:
 
+I found out there is another asset pack I can use for my game. I am going to add new enemies to my level, so
+
+I have more enemies. I might add another a different background or try to combine level sets to make a whole new level. 
+
+I have learned from Unity:
+
+I just learned how to loop a background for my game. So I can make my game more professional looking. Adding more background images 
+
+to my level to give it a more 2D look to it. A moving background is the perfect next step for my game. I have to make my skyscrapers loop in a background. The next
+
+task I have to is make my background move up and down instead of left and right. 
+
+Some issues I found were:
+
+I feel like I am on a big time crunch and I am running out of time to build my game. 
+
+                                                                        Jounral Entry 14 11/1/2022
+
+I cant believe time has flown by this fast, this is going to be my last journal entry for my game deisgn and siumlation class. I have to add the final details to 
+
+my game. This class has opened up my eyes to the possiblities of a new career for me. This has been my favorite class so far learning how to build games has changed 
+
+my life so much. 
+
+I have learned from watching recent gaming development: 
+
+I have learned from Unity: 
+
+Some issues I found were:
